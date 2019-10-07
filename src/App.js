@@ -15,6 +15,7 @@ function App() {
 		// add the given item to the cart
 		setCart([...cart, item])
 	};
+	
 
 	return (
 		<div className="App">
